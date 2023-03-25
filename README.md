@@ -2,6 +2,7 @@
 Juego de los pancakes (pancake sorting) aplicando busqueda en amplitud o tambien BFS en ingles.
 
 Pequeña explicacion de las funciones:
+
 --"void voltear(string& pancakes, int k)"
 Esta función recibe una cadena de caracteres, en este caso, los pancakes, y un entero k, y voltea los primeros k caracteres de la cadena. Se utiliza para simular la acción de voltear un número determinado de pancakes en una pila.
 
