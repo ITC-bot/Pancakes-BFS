@@ -1,6 +1,4 @@
-Juegos-de-los-Pancakes-aplicando-busqueda-en-profundidad
-
-Juego de los pancakes (pancake sorting) aplicando busqueda en amplitud o tambien BFS en ingles.
+#Juego de los pancakes (pancake sorting) aplicando busqueda en amplitud o tambien BFS en ingles.
 
 Hecho por Marcos Zacarias, ITC-TM, Universidad Autonoma de Baja California Sur
 
